@@ -1,10 +1,10 @@
 let a = 5;
 let b = 7;
-// console.log('before swap: a =', a, 'b =', b);
+console.log('before swap: a =', a, 'b =', b);
 let temp = a;
 a = b;
 b = temp;
-// console.log('after swap: a =', a, 'b =', b);
+console.log('after swap: a =', a, 'b =', b);
 
 // or
 
