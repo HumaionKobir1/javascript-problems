@@ -29,5 +29,5 @@ else{
 
 // endswith
 const fileName = 'mybiodata.pdf';
-const otherFile = 'mypic.png'JSON;
+const otherFile = 'mypic.png';
 fileName.endsWith ('.pdf');
