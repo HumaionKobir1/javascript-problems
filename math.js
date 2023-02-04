@@ -2,7 +2,7 @@ const result = Math.pow(2, 5);
 console.log(result);
 
 
-const num1 = 25;
+const num1 = 2:
 const num2 = 45;
 
 const gap = Math.pow(num1 - num2) ;
@@ -22,4 +22,5 @@ const Number = 2.55446;
 const fullNumber = Math.round(Number);
 console.log(fullNumber);
 
-// Practice the same way for ceil, flor, and random number
+// Practice the same way for ceil, flor, and random numb  
+uwseytsfhgjyj nhyxfc  ggb 
