@@ -22,5 +22,4 @@ const Number = 2.55446;
 const fullNumber = Math.round(Number);
 console.log(fullNumber);
 
-// Practice the same way for ceil, flor, and random numb  
-uwseytsfhgjyj nhyxfc  ggb 
+// Practice the same way for ceil, flor, and random numb ,
